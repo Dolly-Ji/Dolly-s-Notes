@@ -1,1 +1,12 @@
 # This is for my Latex study.
+There is some differences in XeLaTeX and LaTeX(pdfLaTeX).
+To use XeLaTex,we can put codes in bash of our VSCode as follows:
+# 切换到目录
+cd "D:\my study\CUMCMThesis"
+
+# 检查文件确实存在
+dir cumcmthesis.cls
+
+# 尝试编译
+xelatex example.tex
+cumcmthesis.cls is a official model in CUMCM,here i just take it as an example.
