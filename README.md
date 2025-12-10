@@ -10,13 +10,10 @@
 ## 📖 笔记分类
 
 ### 🐍 编程开发
-- Python_Study_BNU_Astronomy
-<a href='https://github.com/Dolly-Ji/Python_Study_BNU_Astronomy'></a>
+- <a href='https://github.com/Dolly-Ji/Python_Study_BNU_Astronomy'>Python_Study_BNU_Astronomy</a>
 
-### 📊 数学学习
-- 线性代数
-- 概率统计
-- 数学建模
+### 📊 科学素养
+- <a href='https://github.com/Dolly-Ji/Use-of-LaTeX'>Use of LaTeX</a>
 
 ### ⚛️ 物理科学
 - 理论力学
