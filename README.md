@@ -20,7 +20,8 @@
 ### ⚛️ 物理科学
 
 
-## 🚀 近期更新
+## 🚀 天体物理
+- <a href='https://github.com/Dolly-Ji/Astrophysics'>Astrophysics</a>
 
 
 ## 💡 使用技术
