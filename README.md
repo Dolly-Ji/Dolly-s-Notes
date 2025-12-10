@@ -11,7 +11,7 @@
 
 ### 🐍 编程开发
 - Python_Study_BNU_Astronomy
-<a href='https://github.com/Dolly-Ji/Python_Study_BNU_Astronomy'>Python课程资源</a>
+<a href='https://github.com/Dolly-Ji/Python_Study_BNU_Astronomy'></a>
 
 ### 📊 数学学习
 - 线性代数
