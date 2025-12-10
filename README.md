@@ -10,9 +10,8 @@
 ## 📖 笔记分类
 
 ### 🐍 编程开发
-- Python 程序设计
-- LaTeX 文档排版
-- Git 版本控制
+- Python_Study_BNU_Astronomy
+<a href='https://github.com/Dolly-Ji/Python_Study_BNU_Astronomy'>Python课程资源</a>
 
 ### 📊 数学学习
 - 线性代数
